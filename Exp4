@@ -11,5 +11,5 @@ print('reverse of given number is %d '%sum)
 '''
 expected output
 enter number: 5678
-reverse of given number is 5678
+reverse of given number is 8765
 '''
